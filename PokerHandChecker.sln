@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerHandChecker", "PorkerHandChecker\PokerHandChecker.csproj", "{4444D04B-1819-4F8F-8CBD-6EFB6DDF21B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerHandCheckerTest", "PorkerHandCheckerTest\PokerHandCheckerTest.csproj", "{3D83FEA6-F121-485D-9897-3B84844B2CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D83FEA6-F121-485D-9897-3B84844B2CCF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3D83FEA6-F121-485D-9897-3B84844B2CCF}.Debug|x86.Build.0 = Debug|Any CPU
+		{3D83FEA6-F121-485D-9897-3B84844B2CCF}.Release|x86.ActiveCfg = Release|Any CPU
+		{3D83FEA6-F121-485D-9897-3B84844B2CCF}.Release|x86.Build.0 = Release|Any CPU
+		{4444D04B-1819-4F8F-8CBD-6EFB6DDF21B0}.Debug|x86.ActiveCfg = Debug|x86
+		{4444D04B-1819-4F8F-8CBD-6EFB6DDF21B0}.Debug|x86.Build.0 = Debug|x86
+		{4444D04B-1819-4F8F-8CBD-6EFB6DDF21B0}.Release|x86.ActiveCfg = Release|x86
+		{4444D04B-1819-4F8F-8CBD-6EFB6DDF21B0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PorkerHandChecker\PokerHandChecker.csproj
+	EndGlobalSection
+EndGlobal
